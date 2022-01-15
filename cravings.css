@@ -38,8 +38,13 @@ img{
 }
 /* Second Part-- */
 
-.second img{
-    width: 200px;
-    height: 200px;
-    
+
+h2{
+    text-align: center;
+    margin-top: 25px;
+}
+.item-01 img{
+    width: 328.08px;
+    height: 259.39px;
+    position: absolute;
 }
